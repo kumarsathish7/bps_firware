@@ -1,0 +1,10 @@
+uart.o: uart.c
+uart.o: C:\Keil\ARM\Inc\Philips\lpc21xx.h
+uart.o: uart.h
+uart.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+uart.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+uart.o: i2c.h
+uart.o: i2c_eeprom.h
+uart.o: i2c.c
+uart.o: delay.h
+uart.o: i2c_defines.h

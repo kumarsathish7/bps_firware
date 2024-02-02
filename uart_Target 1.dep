@@ -1,0 +1,12 @@
+Dependencies for Project 'uart', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4F5858F0)(--cpu ARM7TDMI -g --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\uart.c)(0x65BD3801)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips -o "uart.o" --omf_browse "uart.crf" --depend "uart.d")
+I (C:\Keil\ARM\Inc\Philips\lpc21xx.h)(0x4F585AA4)
+I (uart.h)(0x65BD3801)
+I (C:\Keil\ARM\ARMCC\bin\..\include\string.h)(0x4EB0F5AE)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdio.h)(0x4EB0F5AE)
+I (i2c.h)(0x65BA7FE3)
+I (i2c_eeprom.h)(0x65BD0A66)
+I (i2c.c)(0x65BD090A)
+I (delay.h)(0x65BD30D3)
+I (i2c_defines.h)(0x65BA6A9E)
